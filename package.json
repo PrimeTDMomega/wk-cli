@@ -1,0 +1,20 @@
+{
+  "name": "wk-cli",
+  "version": "1.0.0-BETA",
+  "description": "A global command line tool for Withered Knights",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wk"
+  ],
+  "author": "primetdm (discord)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "commander": "^11.0.0"
+  },
+  "devDependencies": {}
+}
